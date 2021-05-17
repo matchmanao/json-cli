@@ -1,5 +1,5 @@
 {
-  "name": "swaggest/json-cli",
+  "name": "matchmanao/json-cli",
   "description": "JSON CLI tool (diff, rearrange, pretty print, minify, yaml convert, etc...)",
   "type": "tool",
   "license": "MIT",
